@@ -1,0 +1,388 @@
+{
+  "palavras": [
+    {
+      "id": 1,
+      "termo": "Carpim",
+      "descricao": "Meia",
+      "confundir": "Tipo de capim para cavalo"
+    },
+    {
+      "id": 2,
+      "termo": "Resvalar",
+      "descricao": "Escorregar",
+      "confundir": "Reavaliar uma decisão"
+    },
+    {
+      "id": 3,
+      "termo": "Sinaleira",
+      "descricao": "Semáforo",
+      "confundir": "Lanterna de carro"
+    },
+    {
+      "id": 4,
+      "termo": "Cacetinho",
+      "descricao": "Pão francês",
+      "confundir": "Pequeno porrete de madeira"
+    },
+    {
+      "id": 5,
+      "termo": "Patente",
+      "descricao": "Vaso sanitário",
+      "confundir": "Marca registrada de um produto"
+    },
+    {
+      "id": 6,
+      "termo": "Tricota",
+      "descricao": "Suéter, blusa de lã",
+      "confundir": "Agulhas de tricô"
+    },
+    {
+      "id": 7,
+      "termo": "Bolicho",
+      "descricao": "Pequeno bar ou venda",
+      "confundir": "Pista de boliche"
+    },
+    {
+      "id": 8,
+      "termo": "Pila",
+      "descricao": "Dinheiro, Real",
+      "confundir": "Bateria para eletrônicos"
+    },
+    {
+      "id": 9,
+      "termo": "Chaleira",
+      "descricao": "Bule para água do chimarrão",
+      "confundir": "A bomba do chimarrão"
+    },
+    {
+      "id": 10,
+      "termo": "Guaiaca",
+      "descricao": "Cinto largo de couro",
+      "confundir": "Chapéu de gaúcho"
+    },
+    {
+      "id": 11,
+      "termo": "Rodo",
+      "descricao": "Ônibus",
+      "confundir": "Utensílio para secar o chão"
+    },
+    {
+      "id": 12,
+      "termo": "Guri",
+      "descricao": "Menino, garoto",
+      "confundir": "Um peixe pequeno de rio"
+    },
+    {
+      "id": 13,
+      "termo": "Guria",
+      "descricao": "Menina, garota",
+      "confundir": "Fruta cítrica pequena"
+    },
+    {
+      "id": 14,
+      "termo": "Prenda",
+      "descricao": "Mulher, moça",
+      "confundir": "Um presente ou brinde"
+    },
+    {
+      "id": 15,
+      "termo": "Peão",
+      "descricao": "Homem do campo",
+      "confundir": "Peça do jogo de xadrez"
+    },
+    {
+      "id": 16,
+      "termo": "Cusco",
+      "descricao": "Cachorro vira-lata",
+      "confundir": "Tipo de lhama peruana"
+    },
+    {
+      "id": 17,
+      "termo": "Aperreado",
+      "descricao": "Apressado, preocupado",
+      "confundir": "Animal que foi ferido"
+    },
+    {
+      "id": 18,
+      "termo": "Bueno",
+      "descricao": "Bom, certo, ok",
+      "confundir": "Capital da Argentina"
+    },
+    {
+      "id": 19,
+      "termo": "Bagual",
+      "descricao": "Excelente ou rústico",
+      "confundir": "Cavalo bravo e selvagem"
+    },
+    {
+      "id": 20,
+      "termo": "Cancheiro",
+      "descricao": "Experiente, habilidoso",
+      "confundir": "Funcionário de um campo de futebol"
+    },
+    {
+      "id": 21,
+      "termo": "Abombado",
+      "descricao": "Cansado, exausto",
+      "confundir": "Que sofreu um bombardeio"
+    },
+    {
+      "id": 22,
+      "termo": "Gaudério",
+      "descricao": "O gaúcho típico",
+      "confundir": "Uma pessoa muito magra"
+    },
+    {
+      "id": 23,
+      "termo": "Atucanar",
+      "descricao": "Perturbar, incomodar",
+      "confundir": "Pássaro tucano pequeno"
+    },
+    {
+      "id": 24,
+      "termo": "Espraiar",
+      "descricao": "Espalhar-se, relaxar",
+      "confundir": "Ir para a beira da praia"
+    },
+    {
+      "id": 25,
+      "termo": "Alumiar",
+      "descricao": "Iluminar, clarear",
+      "confundir": "Objeto feito de alumínio"
+    },
+    {
+      "id": 26,
+      "termo": "Lidiar",
+      "descricao": "Lidar com algo, trabalhar",
+      "confundir": "Ler em voz alta"
+    },
+    {
+      "id": 27,
+      "termo": "Tapear",
+      "descricao": "Enganar, ludibriar",
+      "confundir": "Dar um tapa leve em alguém"
+    },
+    {
+      "id": 28,
+      "termo": "Recolher-se",
+      "descricao": "Ir para casa",
+      "confundir": "Coletar impostos"
+    },
+    {
+      "id": 29,
+      "termo": "Bah!",
+      "descricao": "Expressão de surpresa ou espanto",
+      "confundir": "O som que a ovelha faz"
+    },
+    {
+      "id": 30,
+      "termo": "Tchê!",
+      "descricao": "Vocativo para chamar alguém",
+      "confundir": "Marca de erva-mate"
+    },
+    {
+      "id": 31,
+      "termo": "A la pucha!",
+      "descricao": "Expressão de admiração",
+      "confundir": "Comida feita com batatas"
+    },
+    {
+      "id": 32,
+      "termo": "De vereda",
+      "descricao": "Imediatamente, direto",
+      "confundir": "Andar por um caminho estreito"
+    },
+    {
+      "id": 33,
+      "termo": "Capaz",
+      "descricao": "Expressão de negação ou dúvida",
+      "confundir": "Alguém que tem capacidade"
+    },
+    {
+      "id": 34,
+      "termo": "Renguiar",
+      "descricao": "Pular em uma perna só",
+      "confundir": "Relinchar como um cavalo"
+    },
+    {
+      "id": 35,
+      "termo": "Barbaridade",
+      "descricao": "Algo absurdo ou impressionante",
+      "confundir": "Pessoa com barba grande"
+    },
+    {
+      "id": 36,
+      "termo": "Dar um laço",
+      "descricao": "Se dar bem, ter sucesso",
+      "confundir": "Amarrar um animal com corda"
+    },
+    {
+      "id": 37,
+      "termo": "Guisado",
+      "descricao": "Carne moída",
+      "confundir": "Tipo de ensopado de legumes"
+    },
+    {
+      "id": 38,
+      "termo": "Dar laço",
+      "descricao": "Bater em alguém",
+      "confundir": "Fazer um nó em uma fita"
+    },
+    {
+      "id": 39,
+      "termo": "Pingo",
+      "descricao": "Cavalo",
+      "confundir": "Gota de chuva"
+    },
+    {
+      "id": 40,
+      "termo": "Pelear",
+      "descricao": "Brigar ou lutar",
+      "confundir": "Tirar a pele de um animal"
+    },
+    {
+      "id": 41,
+      "termo": "Pelar a coruja",
+      "descricao": "Vencer ou levar tudo em um jogo",
+      "confundir": "Depenar uma ave noturna"
+    },
+    {
+      "id": 42,
+      "termo": "De cair os butiá do bolso",
+      "descricao": "Estar muito surpreso com algo",
+      "confundir": "Deixar cair frutas da palmeira"
+    },
+    {
+      "id": 43,
+      "termo": "Tri legal",
+      "descricao": "Algo que supera a expectativa",
+      "confundir": "Que é legal três vezes"
+    },
+    {
+      "id": 44,
+      "termo": "Pechada",
+      "descricao": "Colisão de veículos",
+      "confundir": "Prato feito com peixe assado"
+    },
+    {
+      "id": 45,
+      "termo": "Piá",
+      "descricao": "Menino na fase de criança",
+      "confundir": "O som que um pássaro faz"
+    },
+    {
+      "id": 46,
+      "termo": "Pandorga",
+      "descricao": "Pipa ou papagaio",
+      "confundir": "Instrumento musical de sopro"
+    },
+    {
+      "id": 47,
+      "termo": "Chinelagem",
+      "descricao": "Algo ruim, fraco ou bagunçado",
+      "confundir": "Uma grande coleção de chinelos"
+    },
+    {
+      "id": 48,
+      "termo": "Vareio",
+      "descricao": "Vencer com grande vantagem",
+      "confundir": "O ato de varrer o chão"
+    },
+    {
+      "id": 49,
+      "termo": "A la minuta",
+      "descricao": "Prato feito",
+      "confundir": "Algo preparado no último minuto"
+    },
+    {
+      "id": 50,
+      "termo": "Balaqueiro",
+      "descricao": "Conversa cheia de mentiras",
+      "confundir": "Um vendedor de balas e doces"
+    },
+    {
+      "id": 51,
+      "termo": "Brigadiano",
+      "descricao": "Soldado da Brigada Militar",
+      "confundir": "Pessoa que gosta de arrumar briga"
+    },
+    {
+      "id": 52,
+      "termo": "Trovar",
+      "descricao": "Falar muito, contando vantagem",
+      "confundir": "Cantar ou recitar poesias (trovas)"
+    },
+    {
+      "id": 53,
+      "termo": "Prende o grito",
+      "descricao": "Pode contar comigo",
+      "confundir": "Segurar a voz para não gritar"
+    },
+    {
+      "id": 54,
+      "termo": "Fandango",
+      "descricao": "Qualquer tipo de baile ou festa",
+      "confundir": "Dança espanhola com castanholas"
+    },
+    {
+      "id": 55,
+      "termo": "Boia",
+      "descricao": "Comida",
+      "confundir": "Objeto flutuante para salvar vidas"
+    },
+    {
+      "id": 56,
+      "termo": "Indiada",
+      "descricao": "Grupo de vários homens",
+      "confundir": "Um grupo de indígenas"
+    },
+    {
+      "id": 57,
+      "termo": "Campeando",
+      "descricao": "Procurando por algo",
+      "confundir": "Competindo por um título"
+    },
+    {
+      "id": 58,
+      "termo": "Entrevero",
+      "descricao": "Prato típico gaúcho",
+      "confundir": "Uma grande confusão ou briga"
+    },
+    {
+      "id": 59,
+      "termo": "Paleta",
+      "descricao": "Ombro ou parte superior das costas",
+      "confundir": "Um tipo de picolé artesanal"
+    },
+    {
+      "id": 60,
+      "termo": "Bucha",
+      "descricao": "Algo difícil ou um problema",
+      "confundir": "Peça para fixar parafusos na parede"
+    },
+    {
+      "id": 61,
+      "termo": "Pousar",
+      "descricao": "Dormir na casa de alguém",
+      "confundir": "Aterrissar uma aeronave"
+    },
+    {
+      "id": 62,
+      "termo": "Vianda",
+      "descricao": "Marmita de comida",
+      "confundir": "Um tipo de planta ornamental"
+    },
+    {
+      "id": 63,
+      "termo": "Almário",
+      "descricao": "Mesmo que armário",
+      "confundir": "Reunião de almas penadas"
+    },
+    {
+      "id": 64,
+      "termo": "prosear",
+      "descricao": "Mesmo que conversar",
+      "confundir": "Falar cantando"
+    }
+  ]
+}
