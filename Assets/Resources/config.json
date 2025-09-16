@@ -1,0 +1,8 @@
+{
+  "tempoDoJogoMs": 300000,
+  "pontosPorAcerto": 100,
+  "pontosPorErro": -25,
+  "penalidadeTempoPorErroMs": 5000,
+  "bonusCenaSemErros": 500,
+  "quantidadeDeCenas": 5
+}
