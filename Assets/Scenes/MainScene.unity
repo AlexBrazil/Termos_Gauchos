@@ -496,10 +496,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0e529fb726738849aacebe6b0919cad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  termsContainer: {fileID: 0}
-  definitionsContainer: {fileID: 0}
-  termItemPrefab: {fileID: 0}
-  definitionSlotPrefab: {fileID: 0}
+  termsContainer: {fileID: 1847470454}
+  definitionsContainer: {fileID: 1970853418}
+  termItemPrefab: {fileID: 8653373368700438876, guid: 021df1ac308ea4142b2a6c2c494ed043, type: 3}
+  definitionSlotPrefab: {fileID: 6550074659499286368, guid: 17dfa6c85c1601f4d8fab772a5d29366, type: 3}
 --- !u!4 &351700270
 Transform:
   m_ObjectHideFlags: 0
@@ -544,14 +544,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d7c5ad3802097c4f91e9f60102ba365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startPanel: {fileID: 0}
-  gamePanel: {fileID: 0}
-  endPanel: {fileID: 0}
-  nameInput: {fileID: 0}
-  scoreText: {fileID: 0}
-  timeText: {fileID: 0}
-  finalScoreText: {fileID: 0}
-  endMessageText: {fileID: 0}
+  startPanel: {fileID: 1376233583}
+  gamePanel: {fileID: 1153233383}
+  endPanel: {fileID: 1682163622}
+  nameInput: {fileID: 889103557}
+  scoreText: {fileID: 1188078330}
+  timeText: {fileID: 74121217}
+  finalScoreText: {fileID: 753490827}
+  endMessageText: {fileID: 141751438}
 --- !u!4 &416291282
 Transform:
   m_ObjectHideFlags: 0
@@ -1894,7 +1894,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1376233584
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2232,7 +2232,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -108}
+  m_AnchoredPosition: {x: 0, y: -137}
   m_SizeDelta: {x: 250.5265, y: 104.6844}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1526619238
@@ -2278,7 +2278,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1526619239}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 416291281}
+        m_TargetAssemblyTypeName: UIManager, Assembly-CSharp
+        m_MethodName: OnClickStart
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1526619239
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2706,8 +2718,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cee40356934b8e5458bf800584b20f8d, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2739,7 +2751,7 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: 0
+    m_Top: 29
     m_Bottom: 0
   m_ChildAlignment: 0
   m_Spacing: 0
@@ -2786,7 +2798,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.5518, y: -164}
+  m_AnchoredPosition: {x: -1.5518, y: -258}
   m_SizeDelta: {x: 365.1372, y: 136.9691}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1977415538

@@ -96,7 +96,7 @@ public class GameManager : MonoBehaviour
         _wordsInPreviousRound = new List<WordData>(roundWords);
 
         // 2. Preparar as 6 definições (5 corretas + 1 "confundir")
-        List<string> definitions = roundWords.Select(w => w.significado).ToList();
+        List<string> definitions = roundWords.Select(w => w.descricao).ToList();
         
         // Pega uma palavra aleatória que NÃO está na rodada atual para a definição de "confundir"
         WordData confuseWord = _fullWordList.Except(roundWords).OrderBy(x => Random.value).First();
@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour
         {
             GameObject slotObj = Instantiate(definitionSlotPrefab, definitionsContainer);
             // Encontrar a qual palavra esta definição pertence
-            WordData correctWord = roundWords.FirstOrDefault(w => w.significado == def);
+            WordData correctWord = roundWords.FirstOrDefault(w => w.descricao == def);
             slotObj.GetComponent<DropSlot>().Setup(def, correctWord?.termo);
         }
     }

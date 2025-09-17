@@ -54,10 +54,7 @@ public class DataManager : MonoBehaviour
         TextAsset wordsFile = Resources.Load<TextAsset>("palavras");
         if (wordsFile != null)
         {
-            // O wrapper "{\"palavras\": ... }" ainda é necessário para o JsonUtility da Unity
-            // ler um array que está na raiz do JSON.
-            string jsonString = "{\"palavras\":" + wordsFile.text + "}";
-            WordList wordList = JsonUtility.FromJson<WordList>(jsonString);
+            WordList wordList = JsonUtility.FromJson<WordList>(wordsFile.text);
             Words = wordList.palavras.ToArray();
             Debug.Log($"Carregadas {Words.Length} palavras com sucesso.");
             return true;

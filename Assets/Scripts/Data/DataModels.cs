@@ -18,8 +18,9 @@ using System.Collections.Generic;
     [Serializable]
     public class WordData
     {
+        public int id; 
         public string termo;
-        public string significado;
+        public string descricao; 
         public string confundir;
     }
 
